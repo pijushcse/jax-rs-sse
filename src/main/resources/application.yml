@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: phx-eligibility-rest
+  jackson:
+    default-property-inclusion: non-null
+  jersey:
+    application-path: /phx-rest
